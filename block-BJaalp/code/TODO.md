@@ -1,6 +1,5 @@
 - Create a class named `Node` that is responsible for storing the value and a reference to the next node.
 - Create another class named `LinkedList` that will manage multiple nodes and will do operations like adding, removing, searching etc. This class will accept one parameter the head(initial) value that will be the first value of the linked list. If the user doesn't pass the first value default to `null`
-
 - Make sure to add the following methods in the `LinkedList` class.
 
   - `insertHead`
